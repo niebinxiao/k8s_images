@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.09
+FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.4
 MAINTAINER niebinxiao#443753501@qq.com
